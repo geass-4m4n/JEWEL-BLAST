@@ -34,3 +34,23 @@ $ sudo make install
 ```sh
 $ sudo apt-get install libsfml-dev
 ```
+## IMAGES USED 
+THESE ARE DOWNLOADED IMAGES USED TO MAKE GAME. These were imported to the game using Simple and Fast Multimedia Library.
+the images were manipulated to form the smooth running game
+
+
+![alt tag](https://github.com/geass-4m4n/JEWEL-BLAST/blob/master/images/background.png)
+![alt tag](https://github.com/geass-4m4n/JEWEL-BLAST/blob/master/images/gems.png)
+## RUNNING CODE
+1. download the project from github
+2. apply the commands
+```sh
+$ g++ -c main.cpp
+$ g++ main.o -o sfml-app -lsfml-graphics -lsfml-window -lsfml-system
+```
+3. Run the file 
+```sh
+$ ./sfml-app
+```
+## SCREENSHOTS
+SCREENSHOTS OF GAME - 
