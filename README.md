@@ -54,3 +54,5 @@ $ ./sfml-app
 ```
 ## SCREENSHOTS
 SCREENSHOTS OF GAME - 
+
+![alt tag](https://github.com/geass-4m4n/JEWEL-BLAST/blob/master/ScreenShots/1s.png)
